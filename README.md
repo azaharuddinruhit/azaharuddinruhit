@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhit3&layout=compact)](https://github.com/ruhit3/github-readme-stats)
+[![Website](https://img.shields.io/badge/Website-ruhit3.github.io-blueviolet?style=flat-square&logo=github)](https://ruhit3.github.io)
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-azharuddin_ruhit-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/azharuddin-ruhit)
+[![Leetcode Profile](https://img.shields.io/badge/Leetcode-ruhit3-orange?style=flat-square&logo=leetcode)](https://leetcode.com/ruhit3)
+[![Hackerrank Profile](https://img.shields.io/badge/HackerRank-ruhit3-success?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/ruhit3)
 
 <!--
 **ruhit3/ruhit3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
