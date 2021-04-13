@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Website](https://img.shields.io/badge/Website-ruhit3.github.io-blueviolet?style=flat-square&logo=github)](https://ruhit3.github.io)
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-azharuddin_ruhit-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/azharuddin-ruhit)
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-azharuddin_ruhit-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/azharuddinruhit)
 [![Leetcode Profile](https://img.shields.io/badge/Leetcode-ruhit3-orange?style=flat-square&logo=leetcode)](https://leetcode.com/ruhit3)
 [![Hackerrank Profile](https://img.shields.io/badge/HackerRank-ruhit3-success?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/ruhit3)
 
