@@ -29,4 +29,9 @@ I'm always open to collaboration on exciting open-source projects or complex pro
 
 ---
 
-**"Building the future, one line of code at a time."**  
+**"Building the future, one line of code at a time."**
+
+&nbsp;![](https://komarev.com/ghpvc/?username=azaharuddinruhit&color=brightgreen)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azaharuddinruhit&show_icons=true&locale=en" alt="azaharuddinruhit" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azaharuddinruhit&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</p>
